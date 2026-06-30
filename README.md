@@ -4,7 +4,7 @@
  
 **turning soft ideas into polished interfaces, one component at a time.**
  
-Software developer with a love for the little details — I get genuinely excited about the moment a messy idea becomes something clean, clickable, and *actually* nice to look at.
+Software developer with a love for the little details. I get genuinely excited about the moment a messy idea becomes something clean, clickable, and *actually* nice to look at.
  
 <a href="https://portfolio-theint.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F8BBD0?style=for-the-badge&logo=vercel&logoColor=4a1942" /></a>
 <a href="https://github.com/AyeTheintKM"><img src="https://img.shields.io/badge/GitHub-E1BEE7?style=for-the-badge&logo=github&logoColor=4a1942" /></a>
@@ -21,7 +21,7 @@ Software developer with a love for the little details — I get genuinely excite
 
 ## 🪡 what I'm about
  
-I'm a full-stack developer who cares about the whole journey — from the architecture behind the scenes to the tiniest pixel up front. I like things that work well *and* feel good to use. When I'm not shipping a project, I'm probably tinkering with something I already built, just to make it a little prettier or a little smarter.
+I'm a full-stack developer who cares about the whole journey | from the architecture behind the scenes to the tiniest pixel up front. I like things that work well *and* feel good to use. When I'm not shipping a project, I'm probably tinkering with something I already built, just to make it a little prettier or a little smarter.
  
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Based_in-Singapore-F6C9D8?style=for-the-badge&labelColor=FCE4EC&logoColor=4a1942" />
