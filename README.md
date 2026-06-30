@@ -21,7 +21,7 @@ Software developer with a love for the little details. I get genuinely excited a
 
 ## 🪡 what I'm about
  
-I'm a full-stack developer who cares about the whole journey | from the architecture behind the scenes to the tiniest pixel up front. I like things that work well *and* feel good to use. When I'm not shipping a project, I'm probably tinkering with something I already built, just to make it a little prettier or a little smarter.
+I'm a full-stack developer who cares about the whole journey, from the architecture behind the scenes to the tiniest pixel up front. I like things that work well *and* feel good to use. When I'm not shipping a project, I'm probably tinkering with something I already built, just to make it a little prettier or a little smarter.
  
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Based_in-Singapore-F6C9D8?style=for-the-badge&labelColor=FCE4EC&logoColor=4a1942" />
@@ -89,7 +89,7 @@ I'm a full-stack developer who cares about the whole journey | from the architec
 
 <div align="center">
 
-*"good design is invisible until it isn't there."*
+*"the small details are the whole point."*
 
 — let's build something worth noticing.
 
