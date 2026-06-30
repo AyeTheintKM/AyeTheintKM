@@ -1,19 +1,22 @@
 <div align="center">
 
-# Hey, I'm Aye Theint 👋🏻
-
-**turning ideas into interfaces, one component at a time.**
-
-Software developer — I like the moment a messy idea becomes something you can actually click on.
-
+# Hey, I'm Aye Theint 👋🏻 🎀
+ 
+**turning soft ideas into polished interfaces, one component at a time.**
+ 
+Software developer with a love for the little details — I get genuinely excited about the moment a messy idea becomes something clean, clickable, and *actually* nice to look at.
+ 
 <a href="https://portfolio-theint.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F8BBD0?style=for-the-badge&logo=vercel&logoColor=4a1942" /></a>
 <a href="https://github.com/AyeTheintKM"><img src="https://img.shields.io/badge/GitHub-E1BEE7?style=for-the-badge&logo=github&logoColor=4a1942" /></a>
+<a href="https://linkedin.com/in/ayetheintkyimoe"><img src="https://img.shields.io/badge/LinkedIn-D1C4E9?style=for-the-badge&logo=linkedin&logoColor=4a1942" /></a>
 <a href="mailto:ayetheintkyimoe01@gmail.com"><img src="https://img.shields.io/badge/Email-FFCCBC?style=for-the-badge&logo=gmail&logoColor=4a1942" /></a>
-
+ 
+<br/><br/>
+ 
+<img src="https://komarev.com/ghpvc/?username=AyeTheintKM&color=E1BEE7&style=for-the-badge&label=Profile+Views" />
+<img src="https://img.shields.io/badge/dynamic/json?color=FFCCBC&label=Last%20Updated&query=updated_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyeTheintKM&style=for-the-badge" />
 </div>
-
 <br/>
-
 ## 🪡 what I'm about
  
 I'm a full-stack developer who cares about the whole journey — from the architecture behind the scenes to the tiniest pixel up front. I like things that work well *and* feel good to use. When I'm not shipping a project, I'm probably tinkering with something I already built, just to make it a little prettier or a little smarter.
@@ -26,9 +29,8 @@ I'm a full-stack developer who cares about the whole journey — from the archit
 > 🎀 Open to **full-time roles, freelance work, and good collaborations** — always happy to build something useful together.
  
 <br/>
-
 ## 🧵 tech stack
-
+ 
 ![HTML](https://img.shields.io/badge/HTML-FFCCBC?style=flat-square&logo=html5&logoColor=4a1942)
 ![CSS](https://img.shields.io/badge/CSS-FFCCBC?style=flat-square&logo=css3&logoColor=4a1942)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFE0B2?style=flat-square&logo=javascript&logoColor=4a1942)
@@ -56,15 +58,13 @@ I'm a full-stack developer who cares about the whole journey — from the archit
 ![Figma](https://img.shields.io/badge/Figma-CE93D8?style=flat-square&logo=figma&logoColor=4a1942)
 ![Vercel](https://img.shields.io/badge/Vercel-D1C4E9?style=flat-square&logo=vercel&logoColor=4a1942)
 ![Netlify](https://img.shields.io/badge/Netlify-E1BEE7?style=flat-square&logo=netlify&logoColor=4a1942)
-
+ 
 <br/>
-
 ## 🌷 right now
-
-- 🧩 **Building:** enterprise full-stack web applications, shipping production-ready features
-- 🌱 **Learning:** sharper backend architecture and cleaner API design
-- 📬 **Open to:** full-time roles, freelance contracts, and interesting conversations
-
+ 
+- 🧩 **Currently crafting:** enterprise full-stack web applications, shipping production-ready features
+- 🌱 **Currently growing in:** sharper backend architecture and cleaner API design
+- 📬 **Always up for:** full-time roles, freelance contracts, and interesting conversations
 <br/>
 
 ## 📈 github stats
